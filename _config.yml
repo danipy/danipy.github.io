@@ -1,9 +1,9 @@
 title: DIY Biosphere
 email: diy@biosphere.com
 description: Hello mate
+permalink: pretty
 baseurl:
 url: danipy.github.io # the base hostname & protocol for your site
-permalink: /groups/:title
 twitter_username: mellamodaniel_1
 github_username: cube5
 
