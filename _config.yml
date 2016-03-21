@@ -20,10 +20,15 @@ github_username:  cube5
 # Where things are
 source:      .
 destination: ./_site
-plugins_dir:     ./_plugins
-layouts_dir:     ./_layouts
-data_dir: ./_data
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
+data_dir:    ./_data
 collections: null
+
+# Outputting
+permalink:     /groups/:title
+paginate_path: /page:num
+timezone:      null
 
 # Build settings
 markdown: kramdown
